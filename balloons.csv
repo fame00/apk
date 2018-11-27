@@ -1,8 +1,9 @@
 "Name","FileName","ExportName","TapSound","SpeedHorizontal","SpeedVertical","TileMinX","TileMaxX","TileMinY","TileMaxY","GoodReward","GoodAmount","Probability"
 "String","String","String","String","int","int","int","int","int","int","String","int","int"
 "Balloon","sc/humans.sc","balloon","BalloonPop",5,10,-15,63,-20,47,"FreeCash",100,20
-,,,,,,,,,,"ExpPoints",50,20
-,,,,,,,,,,"Land Deed",1,16
-,,,,,,,,,,"Mallet",1,16
-,,,,,,,,,,"Marker Stake",1,16
-,,,,,,,,,,"FreeDiamonds",1,12
+,,,,,,,,,,"ExpPoints",5000000000,2000000000
+,,,,,,,,,,"Land Deed",10000000000,160000000000
+,,,,,,,,,,"Mallet",1000000000,16000000000
+,,,,,,,,,,"Marker Stake",100000000,16000000000
+,,,,,,,,,,"FreeDiamonds",100000000,12000000
+,,,,,,,,,,"Plank",1000000000,1000000
